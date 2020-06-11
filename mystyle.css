@@ -1,3 +1,38 @@
 body {
   background-color: lightblue;
 }
+
+h1, h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.firstList {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-left: 100px;
+  margin-right: 50px;
+  display:inline-block;
+}
+
+.secondList {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-left: 100px;
+  margin-right: 50px;
+  display:inline-block;
+}
+
+.thirdList {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-left: 200px;
+  margin-right: 100px;
+  display:inline-block;
+}
